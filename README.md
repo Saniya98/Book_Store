@@ -10,3 +10,6 @@ install all packages using "npm i"
 run the project on frontend using "npm run dev"
 it should successfully start on "localhost:5173"
 
+
+//https://www.youtube.com/watch?v=-42K44A1oMA
+
